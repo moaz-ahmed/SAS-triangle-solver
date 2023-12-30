@@ -1,5 +1,5 @@
 # SAS-triangle-solver
-Simple C++ Program to solver triangles knowing the SAS (Side angle side) case 
+Simple C Program to solve triangles knowing the SAS (Side angle side) case 
 
 **Angles are input in degress and sides in unit length.**
 
